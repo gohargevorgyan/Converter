@@ -1,0 +1,6 @@
+C:\Users\Vardan\gohar-repos\asp\Convert\Convert\bin\Debug\Convert.exe.config
+C:\Users\Vardan\gohar-repos\asp\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+C:\Users\Vardan\gohar-repos\asp\Convert\Convert\bin\Debug\Convert.exe
+C:\Users\Vardan\gohar-repos\asp\Convert\Convert\bin\Debug\Convert.pdb
+C:\Users\Vardan\gohar-repos\asp\Convert\Convert\obj\Debug\Convert.exe
+C:\Users\Vardan\gohar-repos\asp\Convert\Convert\obj\Debug\Convert.pdb
